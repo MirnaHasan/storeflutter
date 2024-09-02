@@ -1,0 +1,13 @@
+
+import 'package:flutter/material.dart';
+
+const kBackgroundcolor= Color(0XFFF1EFF1); 
+const kPrimarycolor= Color(0XFF219ebc);
+const kSecondarycolor= Color(0XFFfccea46);
+const kTextcolor= Color(0XFF023047);
+const kBLuecolor= Color(0XFF40BAD5);
+const kTextlightcolor = Color(0XFF747474);
+const kpadding=20.0;
+
+
+
